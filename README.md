@@ -46,10 +46,10 @@ namespace Github
 ```
 
 ```diff
-+ My name is Jeet  
-+ I have been on this planet for around 6205 days
+My name is Jeet  
+I have been on this planet for around 6205 days
 
-- Some of my hobbies include:
+Some of my hobbies include:
  ○ Making apps using .NET framework with WPF
  ○ Developing games in unity with C#  
  ○ Programming in Python/C#  
