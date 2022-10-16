@@ -48,16 +48,14 @@ namespace Github
 ```diff
 + My name is Jeet  
 + I have been on this planet for around 6205 days
-```
-```diff
-- Some of my hobbies include:
-```
 
- `○ Making apps using .NET framework with WPF`  
- `○ Developing games in unity with C#`  
- `○ Programming in Python/C#`  
- `○ Using the p5.js module in javascript to create simple procedural effects`  
- `○ Learning about Neural Networking`  
+- Some of my hobbies include:
+ ○ Making apps using .NET framework with WPF
+ ○ Developing games in unity with C#  
+ ○ Programming in Python/C#  
+ ○ Using the p5.js module in javascript to create simple procedural effects  
+ ○ Learning about Neural Networking  
+```
 
 
 
