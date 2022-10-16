@@ -52,7 +52,7 @@ I have been on this planet for around 6205 days
 
 Some of my hobbies include:
 
- ○ ==Making apps using .NET framework with WPF==
+ ○ <mark>Making apps using .NET framework with WPF</mark>
  
  ○ ==Developing games in unity with C#==
  
